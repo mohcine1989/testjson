@@ -1,0 +1,19 @@
+{
+"mydata":{
+ "adscontrole" : 
+{
+"networkads" : "facebook",
+
+"banneradmob" : "ca-app-pub-3940256099942544/6300978111",
+"interadmob" : "ca-app-pub-3940256099942544/1033173712",
+
+
+"bannerfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"interfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+"bannerimage" : false,
+"imglink" : "22222222",
+"urlimageclick" : "22222222",
+}
+}
+}
