@@ -1,19 +1,22 @@
 {
-"mydata":{
- "adscontrole" : 
-{
-"networkads" : "admob",
+  "ControleAd" : {
+    "adscontrole" : "admob",
+	
+    "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
+    "interadmob" : "ca-app-pub-3940256099942544/1033173712",
+	
+    "bannerfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	
+	"bannerId" : "true",
+	"interstitelID" : "true",
+	
+	"bannerimage" : true,
+    "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
+	"urlimageclick" : "https://smartwatchbluetoothnotifier.blogspot.com/2021/03/96-mcsubject-p-margin10px-0-padding0.html"
 
-"banneradmob" : "ca-app-pub-3940256099942544/6300978111",
-"interadmob" : "ca-app-pub-3940256099942544/1033173712",
-
-
-"bannerfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"interfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-
-"bannerimage" : false,
-"imglink" : "https://i.postimg.cc/K8jdqt2G/testbanner.jpg",
-"urlimageclick" : "https://www.google.com/"
-}
-}
+	
+    "rte" : "Support us by give 5 stars and write your review ",
+    "rtename" : "Rate App",
+  }
 }
