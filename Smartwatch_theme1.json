@@ -1,6 +1,6 @@
 {
   "ControleAd" : {
-    "adscontrole" : "unity",
+    "adscontrole" : "facebook",
 	
     "banneradmob1" : "ca-app-pub-3940256099942544/6300978111",
 	  "banneradmob2" : "ca-app-pub-3940256099942544/6300978111",
@@ -13,16 +13,16 @@
 	  "interadmob4" : "ca-app-pub-3940256099942544/1033173712",
 	  "interadmob5" : "ca-app-pub-3940256099942544/1033173712",
 	
-    "bannerfacebook1" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "bannerfacebook2" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "bannerfacebook3" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "bannerfacebook4" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "bannerfacebook5" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "interfacebook1" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "interfacebook2" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "interfacebook3" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "interfacebook4" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "interfacebook5" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "bannerfacebook1" : "344033800493947_344033867160607",
+	  "bannerfacebook2" : "344033800493947_344033867160607",
+	  "bannerfacebook3" : "344033800493947_344033867160607",
+	  "bannerfacebook4" : "344033800493947_344033867160607",
+	  "bannerfacebook5" : "344033800493947_344033867160607",
+    "interfacebook1" : "344033800493947_344033877160606",
+	  "interfacebook2" : "344033800493947_344033877160606",
+	  "interfacebook3" : "344033800493947_344033877160606",
+	  "interfacebook4" : "344033800493947_344033877160606",
+	  "interfacebook5" : "344033800493947_344033877160606",
 	
     "unityid" : "4180533",
     "bannerId" : "Banner_Android",
