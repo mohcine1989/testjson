@@ -1,0 +1,51 @@
+{
+  "ControleAd" : {
+    "adscontrole" : "admob",
+	
+    "banneradmob1" : "ca-app-pub-3940256099942544/6300978111",
+	  "banneradmob2" : "ca-app-pub-3940256099942544/6300978111",
+	  "banneradmob3" : "ca-app-pub-3940256099942544/6300978111",
+	  "banneradmob4" : "ca-app-pub-3940256099942544/6300978111",
+	  "banneradmob5" : "ca-app-pub-3940256099942544/6300978111",
+    "interadmob1" : "ca-app-pub-3940256099942544/1033173712",
+	  "interadmob2" : "ca-app-pub-3940256099942544/1033173712",
+	  "interadmob3" : "ca-app-pub-3940256099942544/1033173712",
+	  "interadmob4" : "ca-app-pub-3940256099942544/1033173712",
+	  "interadmob5" : "ca-app-pub-3940256099942544/1033173712",
+	
+    "bannerfacebook1" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "bannerfacebook2" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "bannerfacebook3" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "bannerfacebook4" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "bannerfacebook5" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interfacebook1" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "interfacebook2" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "interfacebook3" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "interfacebook4" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "interfacebook5" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	
+    "unityid" : "4208901",
+    "bannerId" : "Banner_Android",
+    "interstitelID" : "Interstitial_Android",
+	
+    "bannerimage" : true,
+    "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
+    "urlimageclick" : "https://smartwatchbluetoothnotifier.blogspot.com/2021/03/96-mcsubject-p-margin10px-0-padding0.html",
+	  
+    "searchOrInstal" : "search",
+    "keywordSearch" : "touchescreen repair",
+    "checkIsntaledApp" : "com.touchrepairscreen.touchscreentest",
+    "rankUnlock" : 0,
+    "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
+	  
+    "blogTitle" : "Why you should get a camera?",
+    "blogdescription1" : "When you want to snap a quick photo, chances are you reach for your smartphone rather than a real, standalone camera. But it doesn’t always have to be that way. Real cameras still have a lot of advantages over phones. Here’s why you will want to keep a camera handy and not just rely on your smartphone’s limited capabilities.",
+    "blogdescription2" : "1. Image quality  2. Better low-light photos  3. The power of zoom  4. Control  5. Snap more photos  6. Look through the window  7. More buying options",
+    "blogIV1" : "https://nfhsraiderwire.com/wp-content/uploads/2014/12/2014-12-11-09.57.55.jpg",
+    "blogIV2" : "https://intelligentdevice.org/wp-content/uploads/2020/11/camera-intelligent-device.jpg",
+
+	
+    "rte" : "Support us by give 5 stars and write your review ",
+    "rtename" : "Rate App"
+  }
+}
