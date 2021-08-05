@@ -1,0 +1,51 @@
+{
+  "ControleAd" : {
+    "adscontrole" : "unity",
+	
+    "banneradmob1" : "ca-app-pub-7868961127668300/5067538705",
+	  "banneradmob2" : "ca-app-pub-7868961127668300/5067538705",
+	  "banneradmob3" : "ca-app-pub-7868961127668300/5067538705",
+	  "banneradmob4" : "ca-app-pub-7868961127668300/5067538705",
+	  "banneradmob5" : "ca-app-pub-7868961127668300/5067538705",
+    "interadmob1" : "ca-app-pub-7868961127668300/6189048686",
+	  "interadmob2" : "ca-app-pub-7868961127668300/6189048686",
+	  "interadmob3" : "ca-app-pub-7868961127668300/6189048686",
+	  "interadmob4" : "ca-app-pub-7868961127668300/6189048686",
+	  "interadmob5" : "ca-app-pub-7868961127668300/6189048686",
+	
+    "bannerfacebook1" : "1949621438536657_1949621495203318",
+	  "bannerfacebook2" : "1949621438536657_1949621495203318",
+	  "bannerfacebook3" : "1949621438536657_1949621495203318",
+	  "bannerfacebook4" : "1949621438536657_1949621495203318",
+	  "bannerfacebook5" : "1949621438536657_1949621495203318",
+    "interfacebook1" : "1949621438536657_1949621498536651",
+	  "interfacebook2" : "1949621438536657_1949621498536651",
+	  "interfacebook3" : "1949621438536657_1949621498536651",
+	  "interfacebook4" : "1949621438536657_1949621498536651",
+	  "interfacebook5" : "1949621438536657_1949621498536651",
+	
+    "unityid" : "4038019",
+    "bannerId" : "Banner_Android",
+    "interstitelID" : "Interstitial_Android",
+	
+    "bannerimage" : true,
+    "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
+    "urlimageclick" : "https://smartwatchbluetoothnotifier.blogspot.com/2021/03/96-mcsubject-p-margin10px-0-padding0.html",
+	  
+    "searchOrInstal" : "search",
+    "keywordSearch" : "touchescreen repair",
+    "checkIsntaledApp" : "com.touchrepairscreen.touchscreentest",
+    "rankUnlock" : 0,
+    "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
+	  
+    "blogTitle" : "Why smartwatches failed",
+    "blogdescription1" : "Smartwatches failed as a product category because the main industry players made a huge mistake. They started with consumer smartwatches and treated the enterprise as an afterthought. It should have been the other way around. Three years ago, smartwatches were expected to quickly evolve into a bona fide and thriving mainstream electronics category. Instead, they are mainly just wrist-based delivery systems for smartphone notifications, as well as fitness companions. (Other uses include news updates, phone calls, alarms, email, looking at pictures and videos, navigation, controlling music and home automation, according to NPD Group.",
+    "blogdescription2" : "The early success stories are crashing and burning. Motorola has exited the smartwatch market. Pebble shut down in December. Jawbone did the same in July. Intel, which had acquired the wearables firm Basis, shut down that company and exsted the smartwatch and fitness tracker space completely. Fitbit sold 2.3 million fewer devices last quarter compared with the same quarter a year ago, the company announced this month.",
+    "blogIV1" : "https://images.idgesg.net/images/article/2017/08/tambourhorizon-100733599-large.jpg",
+    "blogIV2" : "https://cdn.aarp.net/content/dam/aarp/home-and-family/family-and-friends/2020/09/1140-fitbit-sense.jpg",
+
+	
+    "rte" : "Support us by give 5 stars and write your review ",
+    "rtename" : "Rate Apps"
+  }
+}
