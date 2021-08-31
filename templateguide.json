@@ -1,6 +1,6 @@
 {
   "ControleAd" : {
-    "adscontrole" : "max",
+    "adscontrole" : "admob",
 	
     "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
 	  "interadmob" : "ca-app-pub-3940256099942544/1033173712",
@@ -25,8 +25,8 @@
     "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
 	  
    
-    "engineering" : false ,
-           "packagename" : "com.telmplate.guide.ap",
+    "engineering" : true ,
+           "packagename" : "com.telmplate.guide.app",
 	  
     "rte" : "Support us by give 5 stars and write your review ",
     "rtename" : "Rate Apps"
