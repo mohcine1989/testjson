@@ -1,5 +1,8 @@
 {
   "ControleAd" : {
+	  
+   "packagename" : "com.telmplate.guide.ap",
+	  
     "adscontrole" : "max",
 	
     "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
@@ -19,10 +22,8 @@
     "searchOrInstal" : "search",
     "keywordSearch" : "touchescreen repair",
     "checkIsntaledApp" : "com.touchrepairscreen.touchscreentest",
-    "rankUnlock" : "rank"
+    "lock" : "rank"
     "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
-
-    "packagename" : "com.telmplate.guide.ap",
     
     "rte" : "Support us by give 5 stars and write your review ",
     "rtename" : "Rate Apps"
