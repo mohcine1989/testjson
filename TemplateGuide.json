@@ -3,7 +3,7 @@
 	  
    "packagename" : "com.telmplate.guide.app",
 	  
-    "adscontrole" : "max",
+    "adscontrole" : "admob",
 	
     "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
 	  "interadmob" : "ca-app-pub-3940256099942544/1033173712",
