@@ -1,0 +1,30 @@
+{
+  "ControleAd" : {
+    "adscontrole" : "max",
+	
+    "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
+	  "interadmob" : "ca-app-pub-3940256099942544/1033173712",
+	
+    "bannerfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "interfacebook" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	
+    "unityid" : "4038019",
+    "bannerId" : "Banner_Android",
+    "interstitelID" : "Interstitial_Android",
+	
+    "bannerimage" : true,
+    "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
+    "urlimageclick" : "https://smartwatchbluetoothnotifier.blogspot.com/2021/03/96-mcsubject-p-margin10px-0-padding0.html",
+	  
+    "searchOrInstal" : "search",
+    "keywordSearch" : "touchescreen repair",
+    "checkIsntaledApp" : "com.touchrepairscreen.touchscreentest",
+    "rankUnlock" : "rank"
+    "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
+
+    "packagename" : "com.telmplate.guide.ap",
+    
+    "rte" : "Support us by give 5 stars and write your review ",
+    "rtename" : "Rate Apps"
+  }
+}
