@@ -19,7 +19,7 @@
     "searchOrInstal" : "search",
     "keywordSearch" : "touchescreen repair",
     "checkIsntaledApp" : "com.touchrepairscreen.touchscreentest",
-    "rankUnlock" : 1,
+    "lock" : "rank",
     "lienGifApp" : "https://i.ibb.co/2nRWPjs/instaledapp.gif",
 	  
    
