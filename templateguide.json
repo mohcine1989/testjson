@@ -16,7 +16,7 @@
 	  "bannerMax" : "2b85a185f32faddd",
 	
     "unityid" : "4038019",
-	  "testmode" : false ,
+	  "testmode" : true ,
     "bannerId" : "Banner_Android",
     "interstitelID" : "Interstitial_Android",
 	
