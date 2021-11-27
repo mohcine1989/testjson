@@ -1,10 +1,7 @@
 {
   "ControleAd" : {
-    "adscontrole" : "max",
-	  
-    "appnextHome" : "faed8533-5061-418b-8ad1-7b19a066ef8a",
-	  "appnextMain" : "ea4af50b-40ca-4f3b-8beb-2b10b562a270",
-	  "appnextFragment" : "a48ac80e-7c52-402d-b061-b7d6ca400823",
+    "adscontrole" : "unity",
+
 	
     "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
 	  "interadmob" : "ca-app-pub-3940256099942544/1033173712",
