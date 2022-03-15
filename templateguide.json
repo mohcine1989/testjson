@@ -1,6 +1,6 @@
 {
   "ControleAd" : {
-    "adscontrole" : "max",
+    "adscontrole" : "admob",
 
 	
     "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
@@ -21,7 +21,7 @@
     "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
     "urlimageclick" : "https://smartwatchbluetoothnotifier.blogspot.com/2021/03/96-mcsubject-p-margin10px-0-padding0.html",
 	
-   "lock" : "rank",
+   "lock" : "version",
 	  
     "searchOrInstal" : "search",
     "keywordSearch" : "touchescreen repair",
