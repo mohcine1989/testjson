@@ -28,6 +28,9 @@
     "bannerId" : "Banner_Android",
     "interstitelID" : "Interstitial_Android",
 	
+	"clicktoshow" : 7,  
+	 "maxads" : 3,
+	  
     "bannerimage" : true,
     "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
     "urlimageclick" : "https://google.com",
