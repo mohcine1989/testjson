@@ -28,11 +28,11 @@
     "bannerId" : "Banner_Android",
     "interstitelID" : "Interstitial_Android",
 	
-	"clicktoshow" : 7,  
-	 "maxads" : 3,
+	"clicktoshow" : 5,  
+	 "maxads" : 4,
 	  
     "bannerimage" : true,
-    "imglink" : "https://i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
+    "imglink" : "https:/i.postimg.cc/15DP9gFc/How-to-use-this-Application.png",
     "urlimageclick" : "https://google.com",
 	  
     "searchOrInstal" : "search",
