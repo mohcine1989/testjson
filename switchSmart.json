@@ -13,6 +13,10 @@
 	  "interadmob4" : "ca-app-pub-3940256099942544/1033173712",
 	  "interadmob5" : "ca-app-pub-3940256099942544/1033173712",
 	
+	  "clicktoshow" : 7,  
+
+	 "maxads" : 3,
+	  
     "bannerfacebook1" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  "bannerfacebook2" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  "bannerfacebook3" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
