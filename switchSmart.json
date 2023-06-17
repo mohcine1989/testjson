@@ -1,6 +1,6 @@
 {
   "ControleAd" : {
-    "adscontrole" : "unity",
+    "adscontrole" : "admob",
 	
     "banneradmob1" : "ca-app-pub-3940256099942544/6300978111",
 	  "banneradmob2" : "ca-app-pub-3940256099942544/6300978111",
@@ -12,10 +12,9 @@
 	  "interadmob3" : "ca-app-pub-3940256099942544/1033173712",
 	  "interadmob4" : "ca-app-pub-3940256099942544/1033173712",
 	  "interadmob5" : "ca-app-pub-3940256099942544/1033173712",
-	
-	  "clicktoshow" : 7,  
 
-	 "maxads" : 3,
+	  "clicktoshow" : 5,  
+	 "maxads" : 4,
 	  
     "bannerfacebook1" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  "bannerfacebook2" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
