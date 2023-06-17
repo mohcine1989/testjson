@@ -23,7 +23,11 @@
 	  "interfacebook3" : "1419005268479392_1419005321812720",
 	  "interfacebook4" : "1419005268479392_1419005321812720",
 	  "interfacebook5" : "1419005268479392_1419005321812720",
-	
+
+"clicktoshow" : 5,  
+	 "maxads" : 4,
+
+	  
     "unityid" : "4190663",
     "bannerId" : "Banner_Android",
     "interstitelID" : "Interstitial_Android",
