@@ -28,7 +28,7 @@
     "bannerId" : "Banner_Android",
     "interstitelID" : "Interstitial_Android",
 	
-	"clicktoshow" : 5,  
+	"clicktoshow" : 3,  
 	 "maxads" : 4,
 	  
     "bannerimage" : true,
